@@ -1,6 +1,6 @@
-<!-- SQL Database Management and Analysis for "Student Market" Supermarket -->
+#SQL Database Management and Analysis for "Student Market" Supermarket
 
-<!--Business Goals
+Business Goals
 ● Get the Employees, Students, Faculty/staff data. Data includes Name, ID,
 DOB, phone number, SSN(only for employees).
 ● In what day of the week and hour are the most and least transactions done -
@@ -33,5 +33,5 @@ use so as to increase the self-checkout or cash counters at the store.
 ● Check products from which vendors are being most sold and
 increase/decrease the inventory
 
--->
+
 
